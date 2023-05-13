@@ -1,4 +1,5 @@
-/**
+/**       Schedules Card Component
+ 
  * Example item component
  * @param style Object with pre-calculated values, looks like {position: 'absolute', zIndex: 3, width: Number, height: Number, top: Number, left: Number}
  * @param item One of items supplied to Timetable through 'items' property
